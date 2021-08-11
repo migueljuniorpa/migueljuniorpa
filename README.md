@@ -18,7 +18,7 @@
 <br>
 <br>
 <div>
-  <a href="hhttps://www.instagram.com/miguelzzitu" target="_blank">
+  <a href="https://www.instagram.com/miguelzzitu" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.gg/XjSB5nzA" target="_blank">
